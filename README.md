@@ -62,7 +62,7 @@ Acesse o protótipo funcional no Lovable:
 **[conversa-fin-amigo.lovable.app](https://chat-cents-buddy-87.lovable.app/)**
 
 IMAGEM DO APP ABAIXO
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/88ef611d-970e-4377-918a-918714311218" />
+<img width="1920" height="945" alt="image" src="88ef611d-970e-4377-918a-918714311218" />
 
 ---
 
